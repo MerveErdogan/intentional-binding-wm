@@ -1,1 +1,3 @@
-# intentional-binding-wm
+# Working Memory & Intentional Binding
+
+This stud
