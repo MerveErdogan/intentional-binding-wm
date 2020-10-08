@@ -16,7 +16,7 @@ Therefore, only difference is their retrospective cues.
 
 
 
-###For what purposes the code can be used:
+### For what purposes the code can be used:
 
 - Intentional Binding Paradigm (a rotating clock with one revolution every 2560ms, an auditory outcome, marking the time by clicking on the clock (the clockhand rotates through the clicked position))
 - Showing a number on the screen 
