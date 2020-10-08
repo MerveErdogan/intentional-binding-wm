@@ -1,6 +1,6 @@
 # Attention & Intentional Binding
 
-This study aims to look at the role of attention on the propective & retrospective sense of agency by using the intentional binding paradigm.\
+This study aims to look at the role of attention on the propective & retrospective sense of agency by using the intentional binding paradigm.
 
 Attention is found to be an important factor on agency. Yet, it is not clear at which part of the process it has a role; propective, retrospective or both. Thus, seperately prospectively constructed and retrospectively constructed soa is compared in 2 cognitive load (low vs high).
 
@@ -12,7 +12,7 @@ The strength of the intentional binding in actions producing tone in 75% block a
 Since both actions produce an outcome, only difference is their predictive cues.
 On the other hand, the actions in the same block which produces an outcome and do not produce any outcome is compared.\
 Since the actions are in the same probability block their predictive cues are the same but the only difference is having an outcome or not.\
-Therefore, only difference is their retrospective cues.\
+Therefore, only difference is their retrospective cues.
 
 
 
